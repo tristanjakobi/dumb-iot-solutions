@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+  background-color: greenyellow;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.html {
+  background-color: greenyellow;
+}
+
+.breaker{
+  background-color: purple;
+}
+
+p{
+  font-family: 'Comic Neue', cursive;
+}
+
+.article{
+  transform: rotate(-0.6deg);
+  min-height:1000px;
+}
+
+.popup{
+  position:fixed;
+  margin: auto;
+  width:80%;
+  height:80;
+  background-color: white;
+  z-index: 100;
+}
+
+.bigGif{
+  width:700px;
+  height:auto;
+}
+
+.document{
+  position:static;
+  transform: rotate(0.4deg);
+  background-color: rgb(247, 240, 226);
+  width:80%;
+  margin: 0 auto;
+}
+
+.AdButtonContainer{
+  width:70%;
+  align-self: center;
+  margin:auto;
+  height:200px;
+  background-color: rgb(247, 240, 226);
+  z-index: 100;
+}
+
+.AdButton{
+  height:70px;
+  margin:15px;
+  width:40%;
+}
+
+.AdBanner{
+  width:100%;
+  height:100px;
+  z-index: 100;
+  
+  border: 2px solid grey;
+  background-size: contain;
+  background-image: url("https://images.fanart.tv/fanart/astley-rick-58119c6362f45.jpg");
+}
