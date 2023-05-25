@@ -62,7 +62,15 @@ function App() {
         </div>
         <div className="article">
           <h2>Why should I buy a dumb IoT solution?</h2>
-          
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <br></br>
+          <h1>Introducing: Dumb Locationing</h1>
+          <p>With Dumb Locationing, you can track the location of your dumb IoT solution.</p>
+          <p>Dumb Locationing uses Sound Waves Produced by your Mobile Device to Triangulate your Position</p>
+          <iframe width="1497" height="640" src="https://www.youtube.com/embed/aEYkndxQMi4" title="triangul8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         </div>
         <h1>Discover Our Products</h1>
         <AdButton/>
